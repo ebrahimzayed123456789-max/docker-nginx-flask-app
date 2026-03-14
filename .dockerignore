@@ -1,0 +1,5 @@
+.env
+ssl/
+.git
+__pycache__
+*.pyc
